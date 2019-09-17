@@ -12,7 +12,7 @@
   </head>
   <body>
   首页
-  <H3>这里是response跳转的用户名:<%=session.getAttribute("username")%></H3>
+  <H3>这里是response跳转的用户名jsdhbahd:<%=session.getAttribute("username")%></H3>
   <a href="login.html" target="_blank">点击返回</a>
   </body>
 </html>
